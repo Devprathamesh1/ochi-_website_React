@@ -21,7 +21,7 @@ const LandingPage = () => {
 
            
         </div>
-        <div className='border-t-[1px] border-zinc-600 mt-40 flex justify-between items-center py-5 px-20'>
+        <div className='border-t-[1px] border-zinc-600 mt-20 flex justify-between items-center py-5 px-20'>
 
             {["for the public and private compines","from the frist pitch to IPO"].map((item,index) =>(
             // eslint-disable-next-line react/jsx-key
